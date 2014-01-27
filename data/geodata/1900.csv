@@ -5,15 +5,15 @@ State College,1,40.7933949,-77.8600012
 Shorter College,1,34.2468985,-85.1644445
 Wesleyan University,2,41.5566104,-72.6569041
 University of South Dakota,2,42.7851754,-96.9253068
-Woman's Medical College of Pennsylvania,1,-75.183273,-75.183273
+Woman's Medical College of Pennsylvania,1,40.010529,-75.183273
 Manual Training School,1,39.346805,-76.6442328
 John A Andrew School,2,51.3130777,-0.5815309
 Hope College,1,33.64206,-93.57934
-Miss Hill's School for Girls,1,78.175529,78.175529
+Miss Hill's School for Girls,1,26.213301,78.175529
 Trinity College,2,41.747078,-72.690375
 Bloomfield High School,1,36.716721,-107.977929
 Miami University,3,39.5105334,-84.7308768
-Pratt Institute High School,1,-73.962952,-73.962952
+Pratt Institute High School,1,40.69109,-73.962952
 Woman's College,4,23.03611,120.24278
 Detroid High School,2,33.6692144,-95.2684673
 CUNY and Brooklyn College,1,40.6955339,-73.9874589
@@ -31,7 +31,7 @@ Moores Hill College,1,13.0667409,80.2540891
 Smith College and University of Chicago,1,41.8700557,-87.6716362
 Delaware College,1,39.6779505,-75.7506113
 Bradley Institute of Technology,1,33.7533078,-84.3688558
-"Editor of Popular Science, NY; Nature and Science Editor of St. Nicholas",1,-73.946167,-73.946167
+"Editor of Popular Science, NY; Nature and Science Editor of St. Nicholas",1,40.67305,-73.946167
 Leland Stanford University,1,37.4272888,-122.1585757
 Albany Normal College,1,42.6525793,-73.7562317
 Academy of Northwestern University,1,34.9812439,-85.2967608
@@ -53,7 +53,7 @@ Hartford High School,1,41.76538,-72.70093
 Post-graduate Medical School,1,41.3177431,69.3162881
 Tufts Medical College,1,42.3505485,-71.0628814
 Temple College,3,31.0718294,-97.3477077
-State Normal and Model School,1,-88.997421,-88.997421
+State Normal and Model School,1,40.51709,-88.997421
 Western Reserve Medical College,2,41.5049169,-81.6041026
 Detroit Eastern High School,1,42.3642045,-83.0118641
 University of Nebraska,4,42.02871,-103.73095
@@ -68,7 +68,7 @@ Ursinus College,2,40.1942068,-75.4580225
 Earlham College,1,39.823941,-84.913241
 Smith College,10,42.3180957,-72.6372341
 Lindon High School,1,38.0202006,-121.0896647
-"Bureau of Plant Industry, US Department of Agriculture",2,-117.956612,-117.956612
+"Bureau of Plant Industry, US Department of Agriculture",2,34.023361,-117.956612
 Smithsonian Institute,1,9.16667,-79.85
 McGill University,2,45.5047847,-73.5771511
 Friends Select School,1,39.9560682,-75.1669457
@@ -100,7 +100,7 @@ Wadleigh High School,2,40.8025091,-73.9545137
 New York Post Graduate Medical School,1,40.7143528,-74.0059731
 Williams College,5,42.7134709,-73.2049942
 Smithsonian Institution,1,38.8887861,-77.0260229
-"Plant Breeding Laboratory, Department of Agriculture",1,-85.439072,-85.439072
+"Plant Breeding Laboratory, Department of Agriculture",1,36.95652,-85.439072
 University of California,1,34.4139629,-119.848947
 Girls' High School,5,-33.6902,151.1096
 Columbia University,23,40.8075355,-73.9625727
@@ -148,7 +148,7 @@ Chicago Normal School,1,41.7699039,-87.6368907
 Wellesley College,7,42.2935733,-71.3059278
 University of Chicago,65,41.78976,-87.59977
 Cornell University,2,42.4534492,-76.4735027
-Chaplin School for Girls,1,-72.127739,-72.127739
+Chaplin School for Girls,1,41.79306,-72.127739
 Woman's College of Baltimore,3,39.3617103,-76.6988196
 Department of Agriculture,2,29.8907513,-97.9386375
 University of Maine,7,44.897732,-68.6687076

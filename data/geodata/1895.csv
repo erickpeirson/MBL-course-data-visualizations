@@ -7,7 +7,7 @@ James School,2,-33.9818,150.8846
 Wesleyan University,1,41.5566104,-72.6569041
 Olivet College,2,42.436064,-84.925261
 University of South Dakota,2,42.7851754,-96.9253068
-Woman's Medical College of Pennsylvania,1,-75.183273,-75.183273
+Woman's Medical College of Pennsylvania,1,40.010529,-75.183273
 Kenyon College,2,40.3768328,-82.3965928
 Brearly School,1,40.778042,-73.949447
 Cambridge School,1,28.0028892,-82.4884379
@@ -16,7 +16,7 @@ Madison High School,1,45.5419902,-122.5808147
 Roxbury High School,2,40.86177,-74.64127
 Fairfield Union Academy,1,40.6829433,-74.2533814
 Miami University,5,39.5105334,-84.7308768
-"College for Women, Western Reserve University",3,75.236687,75.236687
+"College for Women, Western Reserve University",3,31.539869,75.236687
 Lake View High School,2,41.95503,-87.66839
 Geneva High School,1,31.0438567,-85.8812564
 N. Division High School,1,40.72927,-73.5254
@@ -39,7 +39,7 @@ Vassar College,27,41.68704,-73.89541
 Columbia College,14,38.90176,-77.01094
 Chamberlain Institute,1,33.7537976,-84.3740242
 Western College,2,39.5036642,-84.7280083
-Miss Armstrong's School,1,-94.628059,-94.628059
+Miss Armstrong's School,1,43.977711,-94.628059
 West Aurora High School,1,41.7644736,-88.3442388
 Detroit Central High School,1,42.383926,-83.1121461
 Bradley Institute of Technology,2,33.7533078,-84.3688558
@@ -73,7 +73,7 @@ Mixed High School,1,0.237981,32.3490179
 Girls' Normal School,2,32.78212,-79.93564
 The Womans College of Baltimore,1,39.3617103,-76.6988196
 Temple College,1,31.0718294,-97.3477077
-"Pathological Institute, New York State Hospital",1,-75.862602,-75.862602
+"Pathological Institute, New York State Hospital",1,42.114201,-75.862602
 Hancock School,1,39.79338,-85.60831
 Muhlenberg College,1,40.5963928,-75.5084673
 Academy of Drury College,1,37.2158439,-93.2844178
@@ -83,7 +83,7 @@ Mt. Holyoke College,21,42.2567291,-72.5757671
 Vanderbilt University,2,36.14811,-86.80305
 Boston University School of Medicine,6,42.3362379,-71.0723286
 Mt Holyoke College,11,42.2567291,-72.5757671
-"Division of Vegetable Physiology and Pathology, United States Department of Agriculture",1,-77.029999,-77.029999
+"Division of Vegetable Physiology and Pathology, United States Department of Agriculture",1,38.887581,-77.029999
 College of Medicine of Syracuse University,1,43.0385642,-76.1388679
 Barnard College,6,40.8093953,-73.963384
 "University of Wisconsin, Madison",1,43.13052,-89.29049
@@ -100,7 +100,7 @@ Wayne Public Schools,1,42.26278,-96.86754
 Boston English High School,1,42.3062886,-71.108931
 Maryland Experimental Station,1,39.0348317,-76.9074739
 Fairbanks Museum,1,44.420041,-72.019762
-Bowditch Grammar School,1,-82.216637,-82.216637
+Bowditch Grammar School,1,35.884041,-82.216637
 McGill University,8,45.5047847,-73.5771511
 Sanitarium,1,38.54491,-122.47554
 New Hampshire Conference Seminary,2,43.1938516,-71.5723953
@@ -140,7 +140,7 @@ New Hampshire State Normal School,1,43.1938516,-71.5723953
 Academy,2,35.2426419,-81.765202
 Clinton Union School,1,34.8840623,-78.235932
 Woman's Medical College of New York,1,43.1230693,-77.6249723
-"Hygiene and Sanitation Woman's College, Brown University",1,-71.401123,-71.401123
+"Hygiene and Sanitation Woman's College, Brown University",1,41.82616,-71.401123
 Acadia Seminary,1,45.0888906,-64.3660511
 Chicago University,1,41.6884089,-73.8982916
 State University of Iowa,3,41.6621432,-91.5550581
@@ -154,7 +154,7 @@ Brooklyn Childrens' Aid Society,1,40.65,-73.95
 Colby College,1,44.5639334,-69.6620965
 Louisiana State University,1,30.4132579,-91.1800023
 University of Nashville,1,36.14422,-86.79833
-Female Grammar School No. 11,1,-99.254982,-99.254982
+Female Grammar School No. 11,1,19.45867,-99.254982
 Ingalls School,1,42.4709294,-70.9369935
 De Pauw University,3,64.8890888,-147.8068053
 Albion College,2,42.2445426,-84.7461565
@@ -184,7 +184,7 @@ Colgate University,1,42.81729,-75.53573
 Massachusetts Institute of Technology,5,42.360091,-71.09416
 Alleghany College,1,41.649349,-80.1449494
 Delaware College,1,39.6779505,-75.7506113
-Lachmund School,1,-122.947197,-122.947197
+Lachmund School,1,44.9361,-122.947197
 New York State Pathological Institute,1,43.2994285,-74.2179326
 University of Mississippi,2,34.3647402,-89.5384565
 Everett School,1,42.214697,-87.87549
@@ -221,7 +221,7 @@ Colege of Physicians and Surgeons,1,40.8411616,-73.9412346
 Yale Univeristy,1,41.3163244,-72.9223431
 English High School,2,16.7846252,96.1569518
 Woman's College of Baltimore,7,39.3617103,-76.6988196
-"Female Grammar School, No. 11",1,-99.254982,-99.254982
+"Female Grammar School, No. 11",1,19.45867,-99.254982
 Columbia Univeristy,2,40.8075355,-73.9625727
 Indiana University,1,39.1691355,-86.5149053
 South High School,2,39.7187311,-86.2651023

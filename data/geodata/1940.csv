@@ -6,7 +6,7 @@ University of Florida,1,28.0692,-82.43609
 St. Joseph's Seminary,1,41.770366,-75.0579451
 Johns Hopkins University School of Medicine,3,39.2988678,-76.5922432
 Wesleyan University,19,41.5566104,-72.6569041
-"Dept of Biology, St Vincent College",1,-61.19632,-61.19632
+"Dept of Biology, St Vincent College",1,13.24814,-61.19632
 University of Pennsylvania Medical School,1,40.0068652,-75.1519054
 "The University of Chicago, Medical School",1,41.8709165,-87.6716433
 Brothers College of Drew University,1,40.7618115,-74.4226553
@@ -19,11 +19,11 @@ University of Alabama,3,33.2144445,-87.5474349
 St. Catherine's School,1,33.8783851,-118.3400187
 Wesleyan College,2,38.81227,-91.1407
 Miami University,9,39.5105334,-84.7308768
-Columbia University College of Physicians and Surgeons,4,-73.961868,-73.961868
+Columbia University College of Physicians and Surgeons,4,40.807129,-73.961868
 DePamv University,1,39.640397,-86.861622
 N. Tonawanda High School,1,43.0507657,-78.87081
 Wright Junior College,1,38.4552597,-122.7232439
-Belgian American Educational Foundation,1,-94.167511,-94.167511
+Belgian American Educational Foundation,1,36.203979,-94.167511
 Washington Square College,2,30.298809,-97.7431316
 Stanford University of California,1,37.4274745,-122.169719
 Westbrook Junior College,1,38.4351793,-122.7400254
@@ -32,7 +32,7 @@ Washington and Jefferson College,6,40.1714316,-80.2399309
 Randolph-Macon Woman's College,1,37.4564163,-79.2563916
 University of Richmond,3,33.4768,-82.02401
 Oberlin College,19,41.2948457,-82.2233319
-Compania Administradora del Guano,1,-78.633301,-78.633301
+Compania Administradora del Guano,1,-1.5833,-78.633301
 University of Michigan,17,42.84031,-84.47982
 University of Pennsylvania,64,39.9522188,-75.1932137
 Sweet Briar College,2,37.5557,-79.07975
@@ -41,7 +41,7 @@ New Jersey College for Women,5,40.4821992,-74.4295074
 "Peabody Museum, Yale University",1,41.3159985,-72.921115
 Vassar College,27,41.68704,-73.89541
 "New York University, Dental College",1,40.8411616,-73.9412346
-Child Research Council and University of Colorado Medical School,1,-104.77298,-104.77298
+Child Research Council and University of Colorado Medical School,1,38.913689,-104.77298
 North Carolina College for Negroes,1,35.7595731,-79.0192997
 Villanova College,6,-27.4955765,153.0519426
 Southwestern College,1,32.6406849,-116.9980806
@@ -69,7 +69,7 @@ College of Medicine,1,29.6401345,-82.3441998
 Cornell University Medical College,7,40.7653332,-73.9556543
 Harvard University,26,42.3770029,-71.1166601
 Drew University,1,40.7611058,-74.4281995
-"Biology Dept, Long Island University",1,-73.979988,-73.979988
+"Biology Dept, Long Island University",1,40.69128,-73.979988
 Pennsylvania State College,1,40.7933949,-77.8600012
 Ohio State University,10,41.49783,-81.53735
 Mount Holyoke College,19,42.2567291,-72.5757671
@@ -108,7 +108,7 @@ Vanderbilt University School of Medicine,3,36.1421733,-86.8025488
 Phillips Exeter Academy,2,42.9812037,-70.9519345
 Washington College,2,38.6487895,-90.3107962
 Southwest Missouri State Teachers College,2,38.9791171,-90.9871623
-"Laboratory of Physiology, Yale University Medical School",1,-72.926933,-72.926933
+"Laboratory of Physiology, Yale University Medical School",1,41.31115,-72.926933
 Whitman College,2,46.0715857,-118.3298993
 Texas Christian University,2,32.70985,-97.36835
 McGill University,7,45.5047847,-73.5771511
@@ -134,10 +134,10 @@ Western Reserve University,1,41.5043413,-81.6083838
 Milton Academy,1,42.2551731,-71.0718226
 Los Angeles City Schools,1,34.0320895,-118.3180965
 Harvard Medical School,2,42.3366043,-71.1042154
-Lilly Research Laboratories,1,1.56502,1.56502
+Lilly Research Laboratories,1,49.408138,1.56502
 Heidelberg College,1,49.4111532,8.7060074
 "University of Maryland, School of Medicine",5,39.2887587,-76.6253242
-Frick Educational Commission,2,8.02239,8.02239
+Frick Educational Commission,2,47.50602,8.02239
 University of Texas,1,32.85013,-96.80028
 Catholic University,1,38.9368811,-76.998692
 California Institute of Technology,5,34.1376576,-118.125269
@@ -157,7 +157,7 @@ Skidmore College,1,43.0961489,-73.7817705
 New York University College of Dentistry,5,40.7378806,-73.978268
 Oklahoma City University,1,35.494982,-97.544105
 Columbia University,45,40.8075355,-73.9625727
-May Institute for Medical Research,1,101.699852,101.699852
+May Institute for Medical Research,1,3.1681,101.699852
 "Dept of Zoology, State University of Iowa",1,41.8780025,-93.097702
 University of Miami,1,25.7179436,-80.2781784
 Wheaton College,12,41.96677,-71.18422
@@ -166,7 +166,7 @@ Wilson College,6,39.9500043,-77.6497847
 Eli Lilly and Company,7,39.775734,-86.176597
 Long Island University,1,40.8177497,-73.5889284
 Amherst College,22,42.3709104,-72.5170028
-Woman's Medical College of Pennsylvania,3,-75.183273,-75.183273
+Woman's Medical College of Pennsylvania,3,40.010529,-75.183273
 Brooks School,1,42.7075801,-71.0854929
 University of Virginia,6,38.03561,-78.50329
 Massachusetts Department of Health,1,42.63085,-70.7816239
@@ -182,7 +182,7 @@ Hallahan High School,1,39.9598495,-75.1701522
 Birmingham Southern College,1,33.5148629,-86.8559116
 College of New Rochelle,4,40.89899,-73.7818
 Brooklyn College,13,40.6309949,-73.9544124
-"Smith, Amherst, and Mount Holyoke Colleges",1,-72.519836,-72.519836
+"Smith, Amherst, and Mount Holyoke Colleges",1,42.375221,-72.519836
 University of Cincinnati,9,39.1329219,-84.5149504
 St. Vincent College,2,41.2019514,-73.2016214
 St. Joseph College for Women,1,9.498708,76.3290846
@@ -194,13 +194,13 @@ National Research Council,1,45.487279,-73.672928
 Kent State University,1,41.1490629,-81.3414649
 St. Benedict's College,1,51.885306,0.873
 "New York University, College of Medicine",6,40.8508265,-73.8456233
-Carlsberg Laboratory,1,8.03036,8.03036
+Carlsberg Laboratory,1,49.499401,8.03036
 Davis-Elkins College,1,38.9307162,-79.8478278
 University of Illinois,13,40.1019523,-88.2271615
 "Vanderbilt University, School of Medicine",3,36.1421733,-86.8025488
 University of Arizona,1,33.4522217,-112.0662126
 "University of Pennsylvania, School of Medicine",13,40.0068652,-75.1519054
-Cronell Division of the Bellevue Hospital,1,174.760818,174.760818
+Cronell Division of the Bellevue Hospital,1,-36.887169,174.760818
 Sarah Lawrence College,4,40.9339273,-73.8475444
 Purdue University,5,40.42809,-86.92251
 Industrial and Engineering Chemistry,2,37.4305072,-122.1724084
@@ -212,7 +212,7 @@ The Carnegie Institution of Washington,1,38.9095214,-77.0359681
 Vassar Colege,1,41.686662,-73.894944
 "Institute of Medical Physiology, University of Copenhagen",1,55.6760968,12.5683371
 Atlanta University,1,34.062726,-84.1692299
-Placer Junior College,1,-120.74369,-120.74369
+Placer Junior College,1,39.013821,-120.74369
 University of Mississippi,1,34.3647402,-89.5384565
 "University of Cincinnati, College of Medicine",1,39.1391325,-84.5037716
 New York State Department of Health,2,43.0267182,-74.9459147
@@ -226,7 +226,7 @@ Russell Sage College,10,42.72805,-73.6929842
 Canisius College,6,42.9248338,-78.8514848
 Fisk University,1,36.167268,-86.8047659
 Ohio Wesleyan University,3,40.29645,-83.06713
-"Bureau of Laboratories, New York Dept of Health",1,-73.946167,-73.946167
+"Bureau of Laboratories, New York Dept of Health",1,40.67305,-73.946167
 Pennsgrove,1,39.7295581,-75.4679734
 Yale University Medical School,1,41.3029812,-72.9315172
 University of Rochester,19,43.1305531,-77.6260033
@@ -252,7 +252,7 @@ New Jersey State Teachers College,3,40.862089,-74.198956
 Bennington College,3,42.9238904,-73.2415581
 Iowa State College,4,40.61916,-95.12081
 Gettysburg College,2,39.83593,-77.23165
-Rockefeller Institute for Medical Research,16,101.699852,101.699852
+Rockefeller Institute for Medical Research,16,3.1681,101.699852
 University of Montreal,1,45.5056156,-73.6137592
 Groton School,1,42.5945725,-71.5819292
 Haverford College,1,40.01178,-75.30574
@@ -261,7 +261,7 @@ University of Kansas,1,38.8134,-97.60949
 Washington University,29,47.23565,-122.5504
 Indiana University,3,39.1691355,-86.5149053
 Seton Hill College,11,40.3088677,-79.5558944
-"Lilly Research Laboratories, Eli Lilly and Company",1,1.56502,1.56502
+"Lilly Research Laboratories, Eli Lilly and Company",1,49.408138,1.56502
 Union College,4,39.56755,-84.81607
 Springfield College,3,39.9321994,-83.8144844
 Vermont State Normal School,3,44.5588028,-72.5778415

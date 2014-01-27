@@ -83,12 +83,12 @@ Bryn Mawr College,9,40.0266576,-75.3143902
 New York Agricultural Experiment Station,1,41.746175,-73.965812
 Ursinus College,3,40.1942068,-75.4580225
 Earlham College,6,39.823941,-84.913241
-"Research Laboratory, Eli Lilly & Co",1,1.56502,1.56502
+"Research Laboratory, Eli Lilly & Co",1,49.408138,1.56502
 University,1,29.4713985,60.8563224
 Smith College,13,42.3180957,-72.6372341
 Missouri Botanical Garden,6,38.6127672,-90.2593798
 Michigan Agricultural College,1,42.7246734,-84.4772321
-Kaiser Wilhelm Institut fur Biologie,2,14.14278,14.14278
+Kaiser Wilhelm Institut fur Biologie,2,53.97364,14.14278
 Princeton LTniversity,1,40.3439888,-74.6514481
 Bowdoin College,8,43.9067324,-69.9637933
 McGill University,1,45.5047847,-73.5771511
@@ -134,7 +134,7 @@ State University of Iowa,1,41.6621432,-91.5550581
 Hood College,1,39.42402,-77.4178
 Dept of Agriculture,1,29.8907513,-97.9386375
 Cornell Medical School,2,40.7653332,-73.9556543
-Imperial College of Agriculture,1,78.19178,78.19178
+Imperial College of Agriculture,1,26.222219,78.19178
 Columbia University,81,40.8075355,-73.9625727
 Eli Lilly & Co,1,39.775734,-86.176597
 Pauline Shaw School,1,42.2814874,-71.0908843
@@ -147,7 +147,7 @@ Mt Holyoke College,3,42.2567291,-72.5757671
 Stuyvesant High School,2,40.7180467,-74.0141295
 University of Virginia,10,38.03561,-78.50329
 "College of Medicine, Creighton University",2,41.264808,-95.948356
-Woman's Medical College of Pennsylvania,3,-75.183273,-75.183273
+Woman's Medical College of Pennsylvania,3,40.010529,-75.183273
 St. Joseph's Seminary,2,41.770366,-75.0579451
 Princeton University,38,40.34285,-74.65682
 University of Iowa,1,41.6626963,-91.5548998
@@ -185,9 +185,9 @@ Moores Hill College,1,13.0667409,80.2540891
 Denison University,2,40.0740253,-82.5226425
 Western College for Women,3,0.9419172,30.8192468
 Rockefeller Institute,5,40.8103192,-73.6062922
-Bussey Institution,1,-92.884293,-92.884293
+Bussey Institution,1,41.205662,-92.884293
 Wellesley College,9,42.2935733,-71.3059278
-Kaiser Wilhelm Institut Fur Biologie,1,14.14278,14.14278
+Kaiser Wilhelm Institut Fur Biologie,1,53.97364,14.14278
 Medical College of Virginia,1,37.5404076,-77.4312192
 Agnes Scott College,2,33.76828,-84.29494
 The Liggett School,1,42.4242488,-82.9008674
@@ -198,7 +198,7 @@ Radcliffe College,18,51.5155148,-0.1388137
 Department of Agriculture,1,29.8907513,-97.9386375
 University of Maine,4,44.897732,-68.6687076
 Iowa State College,2,40.61916,-95.12081
-Rockefeller Institute for Medical Research,10,101.699852,101.699852
+Rockefeller Institute for Medical Research,10,3.1681,101.699852
 Northwestern University,2,42.0539102,-87.6748758
 Mississippi Industrial Institute and College,1,32.3546679,-89.3985283
 Washington and Lee Univ,1,37.7915097,-79.4445139
@@ -215,7 +215,7 @@ Brearley School,2,40.772553,-73.9454019
 Dartmouth College,11,43.7044406,-72.2886934
 Tufts College,2,42.4074843,-71.1190229
 St. Procopius College,1,41.7756018,-88.0990819
-Parke Davis & Co,1,-87.221786,-87.221786
+Parke Davis & Co,1,39.778961,-87.221786
 Adelbert College,1,41.5048184,-81.6082558
 Clark University,17,42.250386,-71.8222312
 U.S. Navy,2,42.3305779,-85.271107

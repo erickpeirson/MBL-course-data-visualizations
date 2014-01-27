@@ -3,7 +3,7 @@ Syracuse University,19,43.0391534,-76.1351158
 Ohio Wesleyan University,2,40.29645,-83.06713
 Brown University,1,41.8267175,-71.4025625
 Unversity of Pennsylvania,1,39.9522188,-75.1932137
-Leander Clark College,1,-122.652473,-122.652473
+Leander Clark College,1,45.635342,-122.652473
 Baker University,1,38.777439,-95.188819
 Wesleyan University,1,41.5566104,-72.6569041
 Western College,5,39.5036642,-84.7280083
@@ -18,7 +18,7 @@ Northland College,3,46.5809855,-90.8721743
 Richmond College,1,51.4525723,-0.2960662
 "Dana Hall, Wellesley College",1,42.2935733,-71.3059278
 St Louis University Medical School,1,38.6352195,-90.2634948
-Shaw School of Botany,2,75.808372,75.808372
+Shaw School of Botany,2,23.15864,75.808372
 School of Pedagogy,1,12.528379,103.9597431
 "Woodbury, NJ",1,39.8381691,-75.1526774
 Oberlin College,26,41.2948457,-82.2233319
@@ -35,19 +35,19 @@ St. Olaf College,1,44.461154,-93.1836963
 Simpson College,1,41.366309,-93.565278
 Peabody Museum,1,42.3781608,-71.114969
 McGill Univ,1,45.5047847,-73.5771511
-Milwaukee State Normal School,1,-87.906837,-87.906837
+Milwaukee State Normal School,1,43.041809,-87.906837
 University of Wisconsin,13,43.07388,-89.41095
 St Louis University,1,38.6270025,-90.1994042
 Doane College,1,40.6229514,-96.9503546
 William Penn High School,1,39.66868,-75.58519
 Bryn Mawr College,11,40.0266576,-75.3143902
-Barnard Free Skin and Cancer Hospital,1,-72.62294,-72.62294
+Barnard Free Skin and Cancer Hospital,1,43.72934,-72.62294
 Wistar Institute,1,39.9511819,-75.1958967
 New York University,2,40.7295134,-73.9964609
 "Barnard College, Columbia University",3,40.8093953,-73.963384
 Harvard University,12,42.3770029,-71.1166601
-CAN'T READ,1,-2.35018,-2.35018
-Yeatman High School,1,-90.609383,-90.609383
+CAN'T READ,1,53.808681,-2.35018
+Yeatman High School,1,38.545292,-90.609383
 Pennsylvania State College,1,40.7933949,-77.8600012
 Mount Holyoke College,26,42.2567291,-72.5757671
 University of Aberdeen,1,57.1650429,-2.1002589
@@ -78,6 +78,7 @@ McGill University,5,45.5047847,-73.5771511
 Goucher College,19,39.4087187,-76.5965617
 College of Charleston and Charleston Museum,1,32.789577,-79.936022
 Holy Cross College,1,38.93844,-77.00164
+University of Illinois,6,40.1019523,-88.2271615
 Johns Hopkins University,27,39.3249281,-76.6233538
 Ohio University,1,39.3243417,-82.1014242
 Johns Hopkins Medical School,6,39.2895368,-76.6071495
@@ -112,7 +113,7 @@ Blussey Institution,1,33.7801168,-84.4049906
 Amherst College,7,42.3709104,-72.5170028
 Washington and Jefferson College,3,40.1714316,-80.2399309
 US Department of Agriculture,1,38.88678,-77.0297
-Rokefeller Institute for Medical Research,1,101.699852,101.699852
+Rokefeller Institute for Medical Research,1,3.1681,101.699852
 Randolph-Macon College,6,37.7609159,-77.4771555
 George Washington University,2,38.9007683,-77.0474734
 St. Joseph's Seminary,1,41.770366,-75.0579451
@@ -126,7 +127,7 @@ University of Cincinnati,20,39.1329219,-84.5149504
 West High School,1,-32.02944,115.8347
 West Roxbury High School,1,40.8607523,-74.641412
 University of Utah,1,40.7649368,-111.8421021
-University of Illinois,6,40.1019523,-88.2271615
+University of WuerzburgUniversity of WuerzburgUniversity of WuerzburgUniversity of Wuerzburg,1,49.7915953,9.9535715
 Normal College,4,39.099739,121.820543
 Fairmount College,1,39.9677987,-75.1792532
 Belhaven College,1,32.3185005,-90.1711442
@@ -136,7 +137,7 @@ University of Missouri,12,38.9403808,-92.3277375
 University of Oklahoma,1,35.2058936,-97.4457137
 Belhaven,1,35.5401653,-76.6229874
 University of Kansas,10,38.8134,-97.60949
-The Misses Maxen's School,1,13.80142,13.80142
+The Misses Maxen's School,1,50.924461,13.80142
 Westport High School,4,41.6214921,-71.0805981
 Marine Biological Laboratory and University of Chicago,1,41.879185,-87.6311769
 State Normal College,1,32.68569,-88.50976
@@ -150,14 +151,14 @@ Rush Medical College,2,41.8739217,-87.6694047
 University of Amsterdam,1,52.3684498,4.8893931
 University of London,1,51.521,-0.1253
 Wellesley College,7,42.2935733,-71.3059278
-Henry Phipps Institute,1,-82.57711,-82.57711
+Henry Phipps Institute,1,37.16333,-82.57711
 University of Chicago,52,41.78976,-87.59977
 Cornell University,16,42.4534492,-76.4735027
 Central College,1,41.4046513,-92.9275856
 Radcliffe College,2,51.5155148,-0.1388137
 St. Louis University School of Medicine,1,38.6352195,-90.2634948
 University of Maine,13,44.897732,-68.6687076
-Rockefeller Institute for Medical Research,17,101.699852,101.699852
+Rockefeller Institute for Medical Research,17,3.1681,101.699852
 Northwestern University,6,42.0539102,-87.6748758
 Carnegie Institution,2,38.90928,-77.03581
 Carnegie Institute of Technology,2,40.4418248,-79.9473227
@@ -168,6 +169,6 @@ University of Virginia,1,38.03561,-78.50329
 Bennett School,2,26.1450853,-80.1231001
 University 'of Michigan,1,42.2780584,-83.7382259
 Dartmouth College,25,43.7044406,-72.2886934
-"Shaw School of Botany, Washinton University",1,75.808372,75.808372
+"Shaw School of Botany, Washinton University",1,23.15864,75.808372
 Clark University,4,42.250386,-71.8222312
 U.S. Navy,1,42.3305779,-85.271107
